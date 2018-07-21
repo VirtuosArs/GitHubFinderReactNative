@@ -2,15 +2,14 @@
 
 * Initial Screen
   * <img src="https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/01.jpg" alt="initial screen" width="400" height="790">
-  * ![initial screen](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/01.jpg)
 * Keying the search value
-  * ![search value screen](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/02.jpg)
+  * <img src="https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/02.jpg" alt="search value screen" width="400" height="790">
 * Loading Screen
-  * ![loading screen](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/03.jpg)
+  * <img src="https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/03.jpg" alt="loading screen" width="400" height="790">
 * Detail Screen 1
-  * ![detail screen 1](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/04.jpg)
+  * <img src="https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/04.jpg" alt="detail screen 1" width="400" height="790">
 * Detail Screen 2
-  * ![detail screen 2](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/05.jpg)    
+  * <img src="https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/05.jpg" alt="detail screen 2" width="400" height="790">    
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
