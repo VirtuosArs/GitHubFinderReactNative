@@ -1,7 +1,15 @@
 ## App Images
 
 * Initial Screen
-![alt text](https://github.com/VirtuosArs/React_Native_Airbnb_Clone/blob/master/assets/experiences.jpg)
+ *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/01.JPG)
+* Keying the search value
+ *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/02.JPG)
+* Loading Screen
+ *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/03.JPG)
+* Detail Screen 1
+ *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/04.JPG)
+* Detail Screen 2
+ *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/05.JPG)    
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
