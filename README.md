@@ -1,15 +1,15 @@
 ## App Images
 
 * Initial Screen
- *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/01.JPG)
+  *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/01.jpg)
 * Keying the search value
- *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/02.JPG)
+  *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/02.jpg)
 * Loading Screen
- *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/03.JPG)
+  *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/03.jpg)
 * Detail Screen 1
- *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/04.JPG)
+  *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/04.jpg)
 * Detail Screen 2
- *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/05.JPG)    
+  *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/05.jpg)    
 
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
