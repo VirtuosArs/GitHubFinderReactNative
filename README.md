@@ -1,7 +1,7 @@
 ## App Images
 
 * Initial Screen
-  *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/01.jpg)
+  *![initial screen](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/01.jpg){:height="700px" width="200px"}
 * Keying the search value
   *![alt text](https://github.com/VirtuosArs/GitHubFinderReactNative/blob/master/assets/02.jpg)
 * Loading Screen
