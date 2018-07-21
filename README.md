@@ -1,3 +1,8 @@
+## App Images
+
+* Initial Screen
+![alt text](https://github.com/VirtuosArs/React_Native_Airbnb_Clone/blob/master/assets/experiences.jpg)
+
 This project was bootstrapped with [Create React Native App](https://github.com/react-community/create-react-native-app).
 
 Below you'll find information about performing common tasks. The most recent version of this guide is available [here](https://github.com/react-community/create-react-native-app/blob/master/react-native-scripts/template/README.md).
